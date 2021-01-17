@@ -1,0 +1,4 @@
+baseURL = "https://baseballcardswer.vercel.app"
+languageCode = "en-us"
+title = "Baseball Cards Collected"
+theme = "tale-hugo-master"
